@@ -1,0 +1,44 @@
+.Profile{
+    height: 500px;
+    width: 500px;
+}
+
+.profileDiv{
+    margin-top: 50px;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+    color: #e2e2e2;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+button{
+    height: 50px;
+    width: 200px;
+    border-radius: 15px;
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    background-color:#494646;
+    color: #e2e2e2;
+    border: none;
+    cursor: pointer;
+    box-shadow:  7px 7px 16px #272626,
+                -2px -52x 6px #6b6666;
+}
+button:hover{
+    color: ababab;
+    box-shadow:  inset 7px 6px 6px #272626,
+                 inset 1px -2px 6px #6b6666;
+
+}
